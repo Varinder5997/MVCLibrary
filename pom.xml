@@ -9,15 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mindtree</groupId>
-<<<<<<< HEAD
-	<artifactId>LibraryManagement</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>LibraryManagement</name>
-=======
 	<artifactId>Library</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Library</name>
->>>>>>> 59763d29aff17413f0a28d52e5e6b5f37d7efe55
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -50,12 +44,8 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-<<<<<<< HEAD
-		<dependency>
-=======
 		
 						    <dependency>
->>>>>>> 59763d29aff17413f0a28d52e5e6b5f37d7efe55
       <groupId>javax.servlet.jsp.jstl</groupId>
       <artifactId>javax.servlet.jsp.jstl-api</artifactId>
       <version>1.2.1</version>
@@ -85,3 +75,4 @@
 	</build>
 
 </project>
+
