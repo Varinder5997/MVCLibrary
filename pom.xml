@@ -73,7 +73,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Library Project</finalName>
+		<finalName>LibraryProject</finalName>
 	</build>
 
 </project>
