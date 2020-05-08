@@ -10,7 +10,9 @@
 	</parent>
 	<groupId>com.mindtree</groupId>
 	<artifactId>Library</artifactId>
+	
 	<version>0.0.1-SNAPSHOT</version>
+	<pacakging>war</pacakging>
 	<name>Library</name>
 	<description>Demo project for Spring Boot</description>
 
